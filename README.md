@@ -1,2 +1,2 @@
-# Grupo2__CIIN1021P_EP_REPO
+# Grupo2__CIIN1021P_Ef_REPO
 Proyeyto SQL
